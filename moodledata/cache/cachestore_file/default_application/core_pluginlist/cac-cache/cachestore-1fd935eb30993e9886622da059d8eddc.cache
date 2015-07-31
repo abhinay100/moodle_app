@@ -1,0 +1,1 @@
+a:6:{s:4:"file";s:26:"/var/www/cache/stores/file";s:8:"memcache";s:30:"/var/www/cache/stores/memcache";s:9:"memcached";s:31:"/var/www/cache/stores/memcached";s:7:"mongodb";s:29:"/var/www/cache/stores/mongodb";s:7:"session";s:29:"/var/www/cache/stores/session";s:6:"static";s:28:"/var/www/cache/stores/static";}
